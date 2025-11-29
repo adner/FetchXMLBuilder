@@ -787,6 +787,8 @@
   move /Y "Microsoft.Extensions.AI*.*" Plugins\Rappen.XTB.FXB
   move /Y "Microsoft.Extensions.Logging*.*" Plugins\Rappen.XTB.FXB
   move /Y "Azure.*.*" Plugins\Rappen.XTB.FXB
+  move /Y "Azure.*.*" Plugins\Rappen.XTB.FXB
+move /Y Microsoft.Toolkit.Uwp.Notifications.dll Plugins\Rappen.XTB.FXB
 )
 
 

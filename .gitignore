@@ -197,3 +197,4 @@ ModelManifest.xml
 # Temporary files /JR
 **/tmp
 /MigrationBackup
+/.claude/settings.local.json
